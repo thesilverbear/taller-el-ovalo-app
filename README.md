@@ -1,6 +1,7 @@
 # Taller El Óvalo App - TAP AIEP
 
-Aplicación web desarrollada como Trabajo de Aplicación Práctica (TAP) para AIEP [Sede Online] [2025]. 
+Aplicación web desarrollada como Trabajo de Aplicación Práctica (TAP) para AIEP [Sede Online] [2025] por Johann Mora Mira, estudiante de Tercer Año de Ingeniería en Ejecución Informática. 
+El desarrollo de este trabajo tiene como fin la obtención del título técnico intermedio mientras se cursa la carrera profesional completa.
 Esta aplicación es un sistema de gestión de inventario de insumos y respuestos para un taller mecánico ficticio especializado en la marca americana Ford, llamado "Taller El Óvalo".
 Quise mezclar dos mundos que me apasionan: la informática y la mecánica.
 Espero les guste este trabajo tanto como me divertí desarrollándolo, diseñando el logo, interfaz y resolviendo los desafíos que salían en el camino. 
